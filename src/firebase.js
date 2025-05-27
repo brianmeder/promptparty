@@ -8,7 +8,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider, signOut } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
-// Your Firebase configuration object
+// Firebase configuration object
 const firebaseConfig = {
 	apiKey: "AIzaSyBFfQh3WvOQUapkDJVPfdVO-L87b82NVmk",
 	authDomain: "promptparty-429bf.firebaseapp.com",
